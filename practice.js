@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  window.QuestionMarks("bb6?9")
+  window.QuestionMarks("bcc?7??ccc?3t")
 });
 
 function  QuestionMarks(str){
@@ -29,7 +29,7 @@ function  QuestionMarks(str){
           y = 0;
           qcount = 0;
           return strIsValid = true;
-          break;
+          break; //condition for true has been reached.
         }
         if (y == 0 ) {
           qcount = 0;
